@@ -1,0 +1,7 @@
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\bin\Debug\Electricity Bill Calc.exe.config
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\bin\Debug\Electricity Bill Calc.exe
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\bin\Debug\Electricity Bill Calc.pdb
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\obj\Debug\Electricity Bill Calc.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\obj\Debug\Electricity Bill Calc.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\obj\Debug\Electricity Bill Calc.exe
+C:\Visual Studio Code\Electricity Bill Calc\Electricity Bill Calc\obj\Debug\Electricity Bill Calc.pdb
